@@ -1,0 +1,7 @@
+LOCAL REPO:
+- EXISTS ON MY MACHINE
+
+REMOTE REPO:
+-EXISTS ON GITHUB.COM
+
+we have to make sure both repos are always in sync.
